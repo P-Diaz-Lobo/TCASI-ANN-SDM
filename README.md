@@ -49,10 +49,11 @@ To set up the necessary environment for running the scripts in this repository, 
    
    1-Open a terminal (or use VSCODE terminal for instance) in the folder where you extracted this repository
    
-   2-Create the virtual environment:
+   2-Create the virtual environment (optionally you can just type python instead of python3):
    ```bash
-   python3 -m venv .venv (optionally you can just type python instead of python3)
+   python3 -m venv .venv 
    ```
+
    
    3-Activate the virtual environment:
    ```bash
