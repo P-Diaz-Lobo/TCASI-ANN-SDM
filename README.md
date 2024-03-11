@@ -49,9 +49,13 @@ To set up the necessary environment for running the scripts in this repository, 
    
    1-Open a terminal (or use VSCODE terminal for instance) in the folder where you extracted this repository
    
-   2-Create the virtual environment: python3 -m venv .venv (optionally you can just type python instead of python3)
+   2-Create the virtual environment:
+   ``bash
+   python3 -m venv .venv (optionally you can just type python instead of python3)
    
-   3-Activate the virtual environment: source ./ven/bin/activate
+   3-Activate the virtual environment:
+   ``bash
+   source ./ven/bin/activate
    
    4-By doing so, all libraries and dependencies will be installed in the .venv folder. Simply remove this folder to recover disk space taken by this project's libraries.
    
