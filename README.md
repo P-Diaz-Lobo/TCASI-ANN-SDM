@@ -56,7 +56,7 @@ To set up the necessary environment for running the scripts in this repository, 
    
    3-Activate the virtual environment:
    ```bash
-   source ./ven/bin/activate
+   source .ven/bin/activate
    ```
    4-To deactive the virtual environment simply execute deactivate in the terminal where the venv is active
    ```bash
