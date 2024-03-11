@@ -44,7 +44,9 @@ To set up the necessary environment for running the scripts in this repository, 
 
 2. **Create Virtual Environment (Optional but recommended)**
    We do recommend using virtual environments in order to avoid conflicts with other libraries in your system. 
+
    INSTRUCTIONS:
+   
    1-Open a terminal (or use VSCODE terminal for instance) in the folder where you extracted this repository
    
    2-Create the virtual environment: python3 -m venv .venv (optionally you can just type python instead of python3)
