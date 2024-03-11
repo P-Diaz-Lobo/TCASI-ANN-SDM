@@ -53,14 +53,16 @@ To set up the necessary environment for running the scripts in this repository, 
    ```bash
    python3 -m venv .venv 
    ```
-
    
    3-Activate the virtual environment:
    ```bash
    source ./ven/bin/activate
    ```
-   
-   4-By doing so, all libraries and dependencies will be installed in the .venv folder. Simply remove this folder to recover disk space taken by this project's libraries.
+   4-To deactive the virtual environment simply execute deactivate in the terminal where the venv is active
+   ```bash
+   deactivate
+   ```
+   5-By doing so, all libraries and dependencies will be installed in the .venv folder. Simply remove this folder to recover disk space taken by this project's libraries.
    
    
 4. **Install Dependencies:**
