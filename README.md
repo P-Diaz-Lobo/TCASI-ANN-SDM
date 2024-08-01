@@ -28,6 +28,25 @@ This repository contains scripts and resources for machine learning tasks relate
 
    - **data_211CascadeSDM.csv**: Sample dataset for the regression task, containing input specifications and output parameters.
 
+## 5. CITATION
+ How to cite:
+   
+   This repo provides the necessary experimental support for the scientific work published in https://ieeexplore.ieee.org/abstract/document/10347262  (c)IEEE.
+
+   Please, cite it correctly in your work:
+   - Plain Text: P. Díaz-Lobo, G. Liñán-Cembrano and J. M. de la Rosa, "On the Use of Artificial Neural Networks for the Automated High-Level Design of ΣΔ Modulators," in IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 71, no. 5, pp. 2006-2016, May 2024, doi: 10.1109/TCSI.2023.3338056.
+
+   - BibTeX: @ARTICLE{10347262,
+              author={Díaz-Lobo, Pablo and Liñán-Cembrano, Gustavo and de la Rosa, José M.},
+              journal={IEEE Transactions on Circuits and Systems I: Regular Papers}, 
+              title={On the Use of Artificial Neural Networks for the Automated High-Level Design of ΣΔ Modulators}, 
+              year={2024},
+              volume={71},
+              number={5},
+              pages={2006-2016},
+              doi={10.1109/TCSI.2023.3338056}
+              }
+
 ## Purpose
 The repository serves as a collection of machine learning scripts for different tasks, showcasing classification and regression examples. It includes code for training models, hyperparameter tuning, and evaluating model performance. The 'Lib' folder centralizes utility functions used throughout the repository.
 
@@ -68,3 +87,9 @@ To set up the necessary environment for running the scripts in this repository, 
 4. **Install Dependencies:**
     ```bash
     pip install -r requirements.txt (optionally you can use pip3)
+
+
+
+
+
+
